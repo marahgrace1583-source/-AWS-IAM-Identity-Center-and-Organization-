@@ -19,7 +19,7 @@ This project establishes a structured AWS identity management system across thre
     - **DataScientist-permission**
         
         These control user actions within AWS.
-        
+ ![image alt](https://github.com/marahgrace1583-source/-AWS-IAM-Identity-Center-and-Organization-/blob/9bef9ada7d6d003f0326c9928c0f1d736f22c58b/2025-07-11.png)      
 4. **Role-Based Permission Assignments:** Map permissions to groups:
     - **Admin-Team** → Admin-permission
     - **DevOps Team** → PowerUser & SystemAdmin permissions
